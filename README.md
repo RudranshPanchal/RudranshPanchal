@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Rudransh Panchal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RudranshPanchal&label=Profile%20views&color=0e75b6&style=flat" alt="RudranshPanchal" /> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
-<p align="left"> <a href="https://twitter.com/PanchalRudransh" target="blank"><img src="https://img.shields.io/twitter/follow/YourTwitterHandle?logo=twitter&style=for-the-badge" alt="Rudransh Panchal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PanchalRudransh" target="blank"><img src="https://img.shields.io/twitter/follow/Rudransh Panchal?logo=twitter&style=for-the-badge" alt="Rudransh Panchal" /></a> </p>
 
 - 🔭 I’m currently Pursuing B.Tech InFocus with C.S.E.
 - 🌱 I’m currently learning Web Development
