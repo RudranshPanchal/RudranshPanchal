@@ -10,9 +10,9 @@
 <p align="left"> <a href="https://twitter.com/PanchalRudransh" target="blank"><img src="https://img.shields.io/twitter/follow/RudranshPanchal?logo=twitter&style=for-the-badge" alt="RudranshPanchal" /></a> </p>
 
 - 🔭 I’m currently Pursuing B.Tech InFocus with C.S.E.
-- 🌱 Enjoying Web Development
+- 🌱 Enjoying life as a Web Developer
 - 👨‍💻 All of my projects are available at [https://github.com/RudranshPanchal?tab=repositories](https://github.com/RudranshPanchal?tab=repositories)
-- 💬 Ask me about Web Development, UI/UX
+- 💬 Ask me about Web Development, UI/UX, Project Management
 - 📫 How to reach me rudranshpanchal5@gmail.com
 
 <h3 align="left">Connect with me:</h3>
